@@ -1,0 +1,52 @@
+<html>
+<head>
+     <title>Peter' Lab test 1</title>
+     </head>
+
+     <body backgrounds="color1.jpg">
+     <h1> About birds:</h1>
+      <style>
+      table {
+             border: 16px indianred;
+      }
+
+      th {
+        font-size: 60;
+      }
+      </style>
+      <table border=10 bgcolor="FFFFE0">
+        <tr>
+            <th> eagle </th>
+            <th> crow </th>
+            <th> owl </th>
+        </tr>
+        <tr>
+            <td><img height='450' src='eagle.jpg'/> </td>
+            <td><img height='450' src='crow.jpg'/> </td>
+            <td><img height='450' src='owl.jpg'/> </td>
+        </tr>
+      <tr>
+      	<td>
+      		<h4> Details </h4>
+      		eagle, any of many large, heavy-beaked, big-footed birds of prey belonging to the family Accipitridae (order Accipitriformes). In general, an eagle is any bird of prey more powerful than a buteo. An eagle may resemble a vulture in build and flight characteristics but has a fully feathered (often crested) head and strong feet equipped with great curved talons. A further difference is in foraging habits: eagles subsist mainly on live prey. They are too ponderous for effective aerial pursuit but try to surprise and overwhelm their prey on the ground. Like owls, many decapitate their kills. Because of their strength, eagles have been a symbol of war and imperial power since Babylonian times. Their likeness is found on Greek and Roman ruins, coins, and medals.
+
+Eagles are monogamous. They mate for life and use the same nest each year. They tend to nest in inaccessible places, incubating a small clutch of eggs for six to eight weeks. The young mature slowly, reaching adult plumage in the third or fourth year.</td>
+      <td>
+      	<h4> Details </h4>
+        crow, (genus Corvus), any of various glossy black birds found in most parts of the world, with the exception of southern South America. Crows are generally smaller and not as thick-billed as ravens, which belong to the same genus. A large majority of the 40 or so Corvus species are known as crows, and the name has been applied to other, unrelated birds. Large crows measure about 0.5 metre (20 inches) long, with wingspans that can reach 1 metre (39 inches).
+
+American crow
+American crow
+Crows feed chiefly on the ground, where they walk about purposefully. They are omnivores that enjoy meat and may even attack and kill young, weak animals. This habit makes them unpopular with farmers, as does the bird’s propensity to raid grain crops. Berries, insects, the eggs of other birds, and carrion are also eaten. Crows will make off with shreds of roadkill and store tidbits in trees, caching the meat like a leopard does for later consumption. Sometimes they bury seeds or store them in crevices in bark. They occasionally steal food from other animals, sometimes cooperating with other crows to raid food from otters, vultures, and water birds.</td>
+       <td>
+       	<h4> Details </h4>
+       	Owls are birds from the order Strigiformes (/ˈstrɪdʒəfɔːrmiːz/), which includes over 200 species of mostly solitary and nocturnal birds of prey typified by an upright stance, a large, broad head, binocular vision, binaural hearing, sharp talons, and feathers adapted for silent flight. Exceptions include the diurnal northern hawk-owl and the gregarious burrowing owl.
+
+Owls hunt mostly small mammals, insects, and other birds, although a few species specialize in hunting fish. They are found in all regions of the Earth except the polar ice caps and some remote islands.
+
+Owls are divided into two families: the true (or typical) owl family, Strigidae, and the barn-owl family, Tytonidae.
+
+A group of owls is called a "parliament".</td>
+        </table>
+ </body>
+ </html>
